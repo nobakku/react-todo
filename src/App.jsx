@@ -39,6 +39,7 @@ export const App = () => {
     setIncompleteTodos(newIncompleteTodos);
   };
 
+
   return (
     <>
       <div className="input-area">
